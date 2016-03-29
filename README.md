@@ -1,6 +1,6 @@
 # hello-word
 <<<<<<< HEAD
-pour commencer tyranquillou
+pour commencer tranquillou
 oui, mais c'est dûr
 =======
 pour commencer tranquillou
